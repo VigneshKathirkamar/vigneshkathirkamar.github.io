@@ -17,7 +17,7 @@ function renderTime()
     var myClock = document.getElementById("clockDisplay")
     myClock.textContent = "" +dayarray[day] + " "+ daym + " " +montharray[month]+ " "+year
     // myClock.innerText = "" +dayarray[day] + " "+ daym + " " +montharray[month]+ " "+year
-    myClock.innerText = ""+daym+ " "+montharray[month]+ " "+year
+    myClock.innerText ="Hyderabad,"+" "+daym+ " "+montharray[month]+ " "+year
 
     setTimeout("renderTime()", 1000)
 }
