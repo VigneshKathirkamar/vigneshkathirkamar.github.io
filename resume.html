@@ -17,14 +17,14 @@
     }
 
     
-    div {
+    /* div {
         
         margin-top: 0px;
         margin-bottom: 0px;
-        margin-right: 20%;
-        margin-left: 20%;
+        margin-right: 0%;
+        margin-left: 0%;
     
-    }
+    } */
     div.b {
         
         margin-top: 0px;
@@ -48,12 +48,17 @@
         background: black;
         margin-bottom: 1px;
     }
+    #container
+    {
+        floar: left;
+    }
     div.a {
         text-align: justify;
       }
     </style>
+    <script type="text/javascript" src="js/script.js"></script>    
 </head>
-<body>
+<body onLoad="renderTime();">
     <center><h2><p>Vignesh Kathirkamar</h2></p></center>
     <center><p>01, La Casa Avenue·Hyderabad-500019·Cell: +91 7904959614</p></center> 
     <center><p>vigneshkathirkamar@gmail.com</p></center>
@@ -147,11 +152,13 @@
             Quora Profile,</a><a href="https://aipylinux.quora.com/">Quora Space,</a>
             <a href="https://vigneshkathirkamar.medium.com">Medium</a>)</li>
     </ul>
-    
+
     <p>I hereby declare that the details furnished above are true and correct to the best of my knowledge 
         and belief and I undertake to inform you of any changes therein, immediately.</p>
-    <p><left>Hyderabad, 23 Feb 2022</left></p>
-    <p><left><b>Vignesh K</b></left></p>
+    </div>
+    <!-- <p><left>Hyderabad, 23 Feb 2022</left></p> -->
+    <div class="b"><div id="clockDisplay" class="container"></div></div>
+    <div class="b"><p><left><b>Vignesh K</b></left></p></div> 
     
     
 </body>
