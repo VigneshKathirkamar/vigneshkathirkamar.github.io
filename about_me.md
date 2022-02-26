@@ -6,5 +6,5 @@ A failed Blogger 😔 trying to rebuild the blogging activities via Quora space 
 
 Trying to maintain a question to answer ratio not less than 0.5 though motivated to ask more questions by QPP 🤓
 
-linkedin handle: [Vignesh Kathirkamar](https://www.linkedin.com/in/vigneshkathirkamar/)
+linkedin handle: [Vignesh Kathirkamar](https://www.linkedin.com/in/vigneshkathirkamar/) <br>
 Quora space: [AI Pylinux](https://aipylinux.quora.com/)
