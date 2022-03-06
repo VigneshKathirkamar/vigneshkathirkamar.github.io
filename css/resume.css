@@ -1,0 +1,59 @@
+    
+ul.single_line {
+overflow: hidden;
+}
+
+li.single_line {
+float: left;
+width: 45%;
+}
+
+.intro 
+{    
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 15%;
+    margin-left: 15%;
+    text-align: center;
+}
+
+.b 
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 15%;
+    margin-left: 15%;
+
+}
+
+.designation
+{
+    background-color: white;
+}
+
+h1,
+h3 {
+    color: black;
+    background-color: #bebebe;
+}
+ 
+hr {
+    position: relative;
+    top: 1px;
+    border: none;
+    height: 6px;
+    width: 70%;
+    background: black;
+    margin-bottom: 1px;
+}
+
+#container
+{
+    float: left;
+}
+
+#singledout
+{
+    background-color: gray;
+}
+
