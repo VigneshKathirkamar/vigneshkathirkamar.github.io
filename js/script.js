@@ -1,8 +1,9 @@
-alert("         Hey Stranger,\n         Thanks for the interest shown!!!")
+
 
 function renderTime()
 {
     // date
+    alert("         Hey Stranger,\n         Thanks for the interest shown!!!")
     var mydate = new Date();
     var year = mydate.getYear();
         if(year < 1000)
