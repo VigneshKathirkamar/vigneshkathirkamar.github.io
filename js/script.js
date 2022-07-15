@@ -1,3 +1,5 @@
+alert("         Hey Stranger,\n         Thanks for the interest shown!!!")
+
 function renderTime()
 {
     // date
