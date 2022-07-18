@@ -1,8 +1,11 @@
 function welcomeStranger()
 {
-     alert(`Thanks for the interest shown!!
+     alert(
+     `
+     Thanks for the interest shown!!
      Do note that this page may not be upto date
-     Thank you`)
+     Thank you :) 
+     `)
 }
 
 function renderTime()
