@@ -29,6 +29,10 @@ width: 50%;
 .header
 {
     background-image:url("https://t3.ftcdn.net/jpg/03/02/38/86/360_F_302388644_QPemZvlRbWZfgh31aKbIEolLIbtrXhPn.jpg");
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 15%;
+    margin-left: 15%;
 } 
 
 .designation
